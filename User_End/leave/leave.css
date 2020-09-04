@@ -1,0 +1,26 @@
+.allotment{
+    padding: 4% 5%;
+}
+
+.allot{
+    padding: 1% 0;
+}
+
+.card{
+    padding: 2%;
+}
+
+.allot .buttons{
+    padding: 25% 25%;
+}
+
+/*Error, css change for box*/
+.Box-error{
+     box-shadow:inset 0 0 5px 1px red;
+}
+
+@media(min-width:800px){
+    .allotment{
+    padding: 4% 18%;
+}
+}
